@@ -1,11 +1,17 @@
-#Welcome to the approximation number sense test
-#in this test, you will see 30 images in total, each containing blue and yellow dots
-#setup = {'ratio' : ['4:3','3:4','7:6','6:7','7:8','8:7','8:9','9:8','9:10','10:9','3:4','3:4','7:6','6:7','7:8','8:7','8:9','9:8','9:10','10:9','4:3','3:4','7:6','7:6','8:7','8:7','9:8','9:8','9:10','10:9'],
-          'nL': ['12','15','21','12','14','24','16','9','18','10','9','15','21','12','14','24','16','9','18','10','12','15','21','14','16','24','18','9','18','10'],
-          'nR': ['9','20','18','14','16','21','18','8','20','9','12','20','18','14','16','21','18','8','20','9','9','20','18','12','14','21','16','8','20','9'],
-          'correct': ['L','R','R','L','L','R','L','R','L','R','R','R','L','R','R','L','R','L','R','L','L','R','L','L','L','L','L','L','R','L'],
-          'score_each': ['0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0']}
-#the first 10 questions examined with closer ratio
-#the second 10 questions examined with different density
-#the third 10 questions examined with different size of dots
+# Welcome to the Approximation number test (ANS)
+There are  30 questions in total in this test.
+In this test, you will be asked to select which side contains more dots.
 
+To start the test, you need to click on the run cell icon - the triangle in the toolbar or from the menu under Run>Run All Cells.
+Then scroll down to the bottom of all of the code cells, and you can then take the test.
+
+In the test, you may need to enter something in the answer bracket;
+All you need to do is type down things you want to type and then tap the 'Enter' key.
+
+When you do the test, the only thing is to click on the button, please note the following time:
+Each image only displays for 1.5 seconds;
+You only have 3 seconds to respond to each test;
+You will have 1.5 seconds to relax after each question.
+You can see marks after each question.
+
+Enjoy the test!
