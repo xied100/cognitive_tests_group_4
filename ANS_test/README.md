@@ -1,16 +1,13 @@
 # Welcome to the Approximation number test (ANS)
 There are  30 questions in total in this test.
-
 In this test, you will be asked to select which side contains more dots.
 
 
 To start the test, you need to click on the run cell icon - the triangle in the toolbar or from the menu under Run>Run All Cells.
-
 Then scroll down to the bottom of all of the code cells, and you can then take the test.
 
 
 In the test, you may need to enter something in the answer bracket;
-
 All you need to do is type down things you want to type and then tap the 'Enter' key.
 
 
