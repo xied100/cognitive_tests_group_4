@@ -1,4 +1,6 @@
-# Welcome to the Approximation number test (ANS)
+# Welcome to the Approximation number test (ANS) - (for participants)
+Please take the test with notebook 'ANS_test.v1'. (So all of the data is collected with the same code.)
+
 There are  30 questions in total in this test.
 In this test, you will be asked to select which side contains more dots.
 
@@ -23,3 +25,19 @@ You can see marks after each question.
 
 
 Enjoy the test!
+
+# For examiners who want to look at the code
+The improved version is stored in the notebook 'ANS_test.v2'.
+
+
+Here are details of the improvement:
+
+1. Define functions to divide tasks into different blocks;
+   
+2. Provide docstrings to describe the functions;
+   
+3. Using button to collect basic infomation;
+
+4. Validate the user information when taking the input for username;
+
+5. Summary the data using pandas.
