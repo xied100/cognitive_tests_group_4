@@ -36,8 +36,10 @@ Here are details of the improvement:
    
 2. Provide docstrings to describe the functions;
    
-3. Using button to collect basic infomation;
+3. Using the button to collect basic information;
 
 4. Validate the user information when taking the input for username;
 
 5. Summary the data using pandas.
+
+6. Remove the feedback coming after each test, so the user will not be affected.
