@@ -42,4 +42,6 @@ Here are details of the improvement:
 
 5. Summary the data using pandas.
 
-6. Remove the feedback coming after each test, so the user will not be affected.
+6. Add try-out tests to help the user adapt the test.
+
+7. Remove the feedback coming after each test, so the user will not be affected.
