@@ -9,3 +9,12 @@ You can find four tests in four different folders.
 Double-click on the folder of the test you want to do, and you can see a list of files.
 
 You need to double-click on the file named "xxx_test" with the orange notebook symbol at the front. Then you can do the tests.
+
+# Please note:
+You need to take all four tests;
+
+Tests will only run if you accept the consent provided before the test.
+
+The test will be collected anonymously.
+
+Each test has uploaded two versions, please check the Readme file in each folder.
