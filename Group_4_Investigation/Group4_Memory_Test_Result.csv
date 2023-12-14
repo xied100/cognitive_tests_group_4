@@ -1,0 +1,108 @@
+时间戳记,1color of the square,2shape of man's head,3number of math symbols,4top left figure,5top right figure,6number of math symbols,7middle figure,8number of circles,9top left figure,10top right figure,11small figure in rectangle,12number of circles,13figure on top of the star,14bottom left figure,15bottom right figure,anonymised ID,total time,average time,accuracy percentage,gender,age,drink
+,,,,,,,,,,,,,,,,,,,,,,
+,blue,square,2,cross,cross,3,pentagon,3,triangle,triangle,triangle,3,cross/plus,cross/plus,cross/plus,,,,,,,
+,blue,square,2,cross,cross,3,pentagon,3,triangle,triangle,triangle,3,cross/plus,cross/plus,cross/plus,,,,,,,
+,blue,square,2,cross,cross,2,square,2,heart,heart,triangle,3,cross/plus,cross/plus,cross/plus,,,,,,,
+,,,3,rectangle,rectangle,3,pentagon,3,triangle,triangle,triangle,3,cross/plus,cross/plus,cross/plus,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,yellow,semi-circle,3,rectangle,rectangle,2,pentagon,4,heart,circle,square,3,cross/plus,curved line,square,,,,,,,
+,blue,square,2,cross,rectangle,3,pentagon,3,triangle,triangle,square,3,curved line,cross/plus,square,,,,,,,
+,blue,square,2,cross,rectangle,2,square,2,heart,heart,,2,cross/plus,cross/plus,cross/plus,,,,,,,
+,yellow,semi-circle,3,rectangle,rectangle,,,2,triangle,divide symbol,,3,diamond/kite,cross/plus,square,,,,,,,
+,blue,square,2,cross,cross,2,square,2,triangle,triangle,square,3,curved line,cross/plus,square,,,,,,,
+,,square,2,rectangle,rectangle,,pentagon,4,heart,triangle,square,2,diamond/kite,triangle,cross/plus,,,,,,,
+,blue,semi-circle,3,rectangle,rectangle,2,triangle,2,circle,heart,triangle,4,curved line,curved line,square,,,,,,,
+,blue,semi-circle,2,square,cross,3,square,3,heart,triangle,sphere,2,heart,triangle,heart,,,,,,,
+,blue,semi-circle,2,rectangle,cross,,pentagon,2,triangle,divide symbol,square,3,diamond/kite,cross/plus,square,,,,,,,
+,red,,1,,rectangle,2,pentagon,2,circle,circle,square,2,cross/plus,triangle,heart,,,,,,,
+,,,,,,2,pentagon,2,triangle,divide symbol,square,3,cross/plus,cross/plus,square,,,,,,,
+,blue,semi-circle,1,cross,rectangle,3,star,3,cross/plus,heart,sphere,2,cross/plus,triangle,heart,,,,,,,
+,blue,semi-circle,4,cross,arrow,2,pentagon,2,circle,heart,triangle,2,cross/plus,curved line,cross/plus,,,,,,,
+,blue,semi-circle,1,cross,rectangle,3,star,2,triangle,heart,square,1,diamond/kite,heart,cross/plus,TYGY,,,,,,
+,blue,square,3,cross,rectangle,,pentagon,4,triangle,divide symbol,triangle,4,cross/plus,triangle,cross/plus,j,19.84,1.32,30,,,
+,,,3,cross,rectangle,,,,heart,heart,triangle,2,cross/plus,triangle,heart,k,53.2,3.55,21.11,,,
+,blue,semi-circle,1,cross,arrow,3,square,1,heart,circle,triangle,2,heart,triangle,cross/plus,haha,11.76,0.78,28.89,,,
+,,,,rectangle,cross,2,pentagon,2,triangle,circle,,2,cross/plus,triangle,square,jjj,47.28,3.15,23.33,,,
+,red,square,3,rectangle,circle,,pentagon,2,triangle,divide symbol,triangle,2,cross/plus,triangle,cross/plus,jjj,23.48,1.57,43.33,,,
+,red,square,3,cross,cross,2,pentagon,2,triangle,triangle,square,3,diamond/kite,curved line,cross/plus,jkjk,20.99,1.4,33.33,,,
+,blue,square,2,rectangle,cross,,square,2,heart,heart,,2,diamond/kite,cross/plus,cross/plus,a,33.42,2.23,5.56,,,
+,,circle,,rectangle,,2,pentagon,2,triangle,heart,sphere,2,cross/plus,triangle,cross/plus,BLBL,40.91,2.73,28.89,,,
+,,,,,,,,2,triangle,heart,,,,,,hjhj,98.53,6.57,5.56,,,
+,,,,,,,,,,,,,,,,h,115.73,7.72,0,male,20,neither
+,,,,,,2,square,2,heart,heart,square,3,cross/plus,cross/plus,cross/plus,jiji,43.45,2.9,8.89,male,20,alcohol
+,red,,2,,arrow,3,pentagon,2,cross/plus,triangle,star,3,cross/plus,curved line,cross/plus,YLYT,59.55,3.97,47.78,female,21,neither
+,yellow,I did not see the head,3,man's head,rectangle,,,,,triangle,square,1,diamond/kite,cross/plus,square,jkjk,44.62,2.97,11.11,male,20,neither
+,,,,,,2,pentagon,3,cross/plus,triangle,square,3,cross/plus,curved line,cross/plus,hjhju,36.3,2.42,14.44,male,20,nopr
+TEST,,square,3,man's head,rectangle,2,pentagon,4,triangle,circle,square,3,curved line,curved line,cross/plus,jsad,17.43,1.16,22.22,male,am,as
+2023-11-27 下午03:10:27,blue,circle,3,rectangle,cross,2,pentagon,3,heart,circle,sphere,3,diamond/kite,heart,square,vgat,50.76,3.38,33.33,female,21,coffee
+2023-11-27 下午03:38:05,,semi-circle,2,,cross,2,pentagon,2,circle,circle,square,3,diamond/kite,triangle,cross/plus,KYJS,56.45,3.76,20,female,19,neither
+2023-11-27 下午03:44:50,yellow,circle,,,cross,3,pentagon,2,cross/plus,circle,sphere,2,cross/plus,heart,heart,CYNT,57.55,3.84,42.22,female,20,no
+2023-11-27 下午03:54:38,,circle,2,square,,3,square,2,cross/plus,circle,triangle,2,diamond/kite,curved line,square,YCBH,62.39,4.16,47.78,female,20,no
+2023-11-27 下午04:04:18,red,circle,,square,rectangle,3,pentagon,2,triangle,heart,square,3,curved line,cross/plus,cross/plus,CTCT,62.25,4.15,50,female,21,neither
+TEST,black,circle,1,square,arrow,1,triangle,1,circle,circle,sphere,2,heart,triangle,cross/plus,ababa,12.68,0.85,42.22,this result does not count,not count,not count
+TEST,red,square,3,cross,cross,,,,,,sphere,2,cross/plus,curved line,cross/plus,jkjk,51.46,3.43,25.56,not count,not count,not count
+TEST,red,square,3,square,cross,,,,,heart,square,3,diamond/kite,curved line,cross/plus,haha,49.29,3.29,33.33,not count,not count,not count
+2023-11-28 下午10:50:59,blue,circle,,square,cross,3,pentagon,2,circle,divide symbol,sphere,4,cross/plus,triangle,square,KBMS,62.6,4.17,48.89,female,19,neither
+2023-11-29 下午05:59:26,,,2,square,,3,,2,circle,triangle,,3,diamond/kite,heart,,MCHC,96,6.4,22.22,Male,19,neither
+2023-11-29 下午08:12:57,blue,I did not see the head,2,rectangle,rectangle,3,pentagon,2,cross/plus,divide symbol,triangle,2,cross/plus,heart,square,aady,40.07,2.67,28.89,m,20,no
+2023-12-1 上午09:03:31,red,,3,square,cross,3,pentagon,2,cross/plus,circle,triangle,3,curved line,cross/plus,cross/plus,ACKD,54.76,3.65,64.44,female,19,coffee
+2023-12-1 下午10:00:24,,,,,arrow,1,,2,heart,heart,triangle,3,cross/plus,triangle,heart,AFHY,39.5,2.63,26.67,f,19,no
+2023-12-1 下午10:01:00,,,3,cross,rectangle,3,pentagon,2,cross/plus,triangle,triangle,2,cross/plus,triangle,heart,MGRG,38.12,2.54,43.33,male,20,coffee
+2023-12-1 下午11:02:33,,,3,square,cross,3,pentagon,2,cross/plus,divide symbol,star,3,curved line,triangle,square,OCCl,62.98,4.2,47.78,male,19,no
+2023-12-2 上午02:41:46,,square,,,cross,3,pentagon,1,cross/plus,heart,sphere,4,,triangle,square,RSWS,71.21,4.75,23.33,male,19,no
+2023-12-2 下午12:15:05,,circle,3,rectangle,arrow,2,triangle,2,cross/plus,circle,triangle,4,diamond/kite,heart,cross/plus,QAMF,60.65,4.04,56.67,male,19,neither
+2023-12-3 上午11:32:10,red,,4,square,arrow,2,pentagon,2,cross/plus,triangle,star,4,cross/plus,triangle,cross/plus,MMMM,54.32,3.62,60,Male,20,neither
+2023-12-3 下午04:24:13,,,,cross,cross,2,pentagon,2,triangle,triangle,square,3,diamond/kite,cross/plus,cross/plus,abab,30.8,2.05,11.11,not count,nt count,nt count
+2023-12-3 下午06:43:07,,I did not see the head,3,cross,arrow,2,triangle,3,cross/plus,triangle,square,3,curved line,triangle,heart,DSDS,26.32,1.75,31.11,f,19,coffee
+2023-12-3 下午08:34:20,black,square,2,cross,cross,2,square,2,heart,heart,,,,,,y,61.73,4.12,5.56,female,19,no
+2023-12-3 下午11:31:18,blue,circle,3,,arrow,3,triangle,2,cross/plus,circle,triangle,2,cross/plus,cross/plus,square,OLNJ,65.29,4.35,62.22,male,21,neither
+2023-12-4 上午09:04:17,blue,,2,square,,3,star,2,cross/plus,triangle,square,3,diamond/kite,curved line,heart,nsbk,38.23,2.55,27.78,male,19,no
+2023-12-4 上午09:10:53,red,semi-circle,3,square,arrow,3,pentagon,2,circle,circle,sphere,4,cross/plus,triangle,square,HSUO,50.94,3.4,76.67,female,19,yes
+2023-12-4 上午09:19:55,yellow,,3,cross,cross,3,square,1,cross/plus,triangle,square,3,cross/plus,cross/plus,cross/plus,CKSB,56.82,3.79,25.56,female,19,neither
+2023-12-4 下午02:45:45,yellow,,,,,,,,,,,,,,,aady,113.04,7.54,0,male,20,no
+2023-12-4 下午02:47:11,yellow,semi-circle,2,rectangle,arrow,2,pentagon,1,triangle,heart,square,2,cross/plus,triangle,cross/plus,FZHF,55.15,3.68,23.33,male,19,neither
+2023-12-4 下午02:55:20,,,,,,1,square,2,cross/plus,divide symbol,square,,diamond/kite,cross/plus,square,DATO,75.92,5.06,11.11,MALE,28,NO
+2023-12-4 下午04:45:40,red,,3,square,cross,3,pentagon,2,cross/plus,heart,triangle,3,diamond/kite,curved line,cross/plus,RHJM,68.51,4.57,58.89,M,20,neither
+2023-12-4 下午05:36:31,red,circle,2,rectangle,cross,3,square,2,cross/plus,circle,square,2,cross/plus,triangle,cross/plus,HAHA,23.17,1.54,51.11,male,20,neither
+2023-12-4 下午05:42:59,,,2,cross,circle,3,pentagon,2,cross/plus,circle,triangle,4,diamond/kite,triangle,cross/plus,ABAB,45.28,3.02,37.78,male,20,neither
+2023-12-4 下午05:55:14,,circle,,square,,2,pentagon,2,cross/plus,circle,triangle,3,,triangle,square,FWNO,72.72,4.85,51.11,male,20,no
+2023-12-4 下午06:42:10,,,2,rectangle,,3,star,2,,circle,sphere,3,diamond/kite,cross/plus,cross/plus,wwww,91.32,6.09,16.67,f,18,no
+2023-12-4 下午07:02:28,red,semi-circle,3,square,,3,pentagon,2,cross/plus,circle,star,4,,cross/plus,,KKXX,78.93,5.26,64.44,male,20,no
+2023-12-5 上午06:53:00,,,,,cross,2,pentagon,2,triangle,circle,,3,cross/plus,heart,cross/plus,TRLO,84.03,5.6,20,male,20,no
+2023-12-5 下午02:51:13,,,,,,4,star,2,cross/plus,divide symbol,triangle,4,,heart,,XTTR,86.42,5.76,17.78,male,21,no
+2023-12-6 下午01:29:14,,square,,rectangle,,4,,,,,,,,,,xied,108.3,7.22,0,m,20,neither
+2023-12-6 下午02:36:56,,square,3,cross,rectangle,2,pentagon,2,triangle,divide symbol,square,1,diamond/kite,triangle,cross/plus,not count,16.18,1.08,25.56,not count,not count,not count
+2023-12-6 下午03:08:42,blue,semi-circle,2,square,cross,2,pentagon,3,cross/plus,triangle,triangle,2,cross/plus,triangle,cross/plus,nc,11.16,0.74,32.22,nc,nc,nc
+2023-12-6 下午03:13:42,red,semi-circle,2,cross,cross,3,pentagon,3,triangle,triangle,triangle,3,cross/plus,cross/plus,cross/plus,nc,13.45,0.9,28.89,nc,nc,nc
+2023-12-6 下午05:07:33,,,,square,arrow,3,pentagon,3,cross/plus,circle,triangle,4,curved line,triangle,heart,gxlr,72.21,4.81,54.44,female,19,neither
+2023-12-6 下午08:01:33,,circle,3,square,arrow,3,pentagon,2,circle,circle,star,1,diamond/kite,triangle,cross/plus,fgfg,65.54,4.37,70,male,20,no
+2023-12-7 下午12:01:42,red,circle,3,square,arrow,3,pentagon,2,cross/plus,circle,triangle,4,cross/plus,cross/plus,square,PENG,56.37,3.76,93.33,m,22,coffee
+2023-12-7 下午02:37:08,,circle,3,square,,1,pentagon,2,cross/plus,circle,sphere,2,diamond/kite,triangle,heart,TTTT,70.09,4.67,58.89,male,20,neither
+2023-12-7 下午03:38:59,red,semi-circle,3,rectangle,circle,2,square,3,heart,triangle,square,3,diamond/kite,cross/plus,cross/plus,nc,9.14,0.61,22.22,nc,nc,nc
+2023-12-7 下午03:43:18,black,square,1,rectangle,rectangle,3,pentagon,3,triangle,triangle,triangle,3,cross/plus,cross/plus,cross/plus,nc,9.98,0.67,17.78,nc,nc,nc
+2023-12-7 下午03:45:08,red,semi-circle,2,rectangle,cross,3,pentagon,3,triangle,divide symbol,triangle,3,cross/plus,cross/plus,cross/plus,DUUD,12.98,0.87,28.89,male,20,coffe
+2023-12-7 下午03:48:38,blue,circle,2,rectangle,cross,2,square,2,heart,heart,square,3,cross/plus,cross/plus,cross/plus,nc,14.94,1,20,nc,nc,nc
+2023-12-7 下午03:55:50,blue,square,2,cross,cross,2,pentagon,3,triangle,triangle,triangle,3,cross/plus,cross/plus,cross/plus,nc,13.62,0.91,12.22,nc,nc,nc
+2023-12-7 下午04:26:47,black,square,2,cross,rectangle,2,pentagon,3,triangle,triangle,triangle,3,cross/plus,triangle,cross/plus,nc,13.49,0.9,15.56,nc,nc,nc
+2023-12-7 下午04:27:51,blue,square,3,man's head,rectangle,2,pentagon,2,circle,heart,triangle,2,cross/plus,curved line,cross/plus,nb,14.16,0.94,28.89,nc,nc,nc
+2023-12-7 下午05:05:23,,,,,,,,,,,,,,,,YSKM(NC),115.73,7.72,0,F,20,neither
+2023-12-8 下午01:11:53,,,,,,,,,,,,,,,,jcpb,115.73,7.72,0,male,19,yes
+2023-12-8 下午02:13:36,blue,circle,2,cross,cross,,,,,,,,,,,jcpb,106.67,7.11,11.11,m,19,alcohol
+2023-12-8 下午02:21:37,blue,square,2,rectangle,rectangle,,pentagon,2,triangle,heart,square,3,diamond/kite,triangle,heart,nc,29.08,1.94,14.44,nc,nc,nc
+2023-12-8 下午02:24:00,,,,rectangle,cross,3,square,3,heart,triangle,square,3,diamond/kite,cross/plus,heart,nc,26.57,1.77,5.56,nc,nc,nc
+2023-12-8 下午02:32:05,,,2,cross,rectangle,2,pentagon,2,circle,heart,square,1,heart,heart,heart,nc,27.04,1.8,11.11,nc,nc,nc
+2023-12-9 上午11:57:07,,,,,,,,,,,,,,,,abcd,115.17,7.68,0,aaa,13,neither
+2023-12-9 下午03:37:54,,,,,,,,,,,,,,,,nc,115.7,7.71,0,nc,nc,nc
+2023-12-9 下午03:43:12,,,,,,,,,,,,,,,,nc,115.66,7.71,0,nc,nc,nc
+2023-12-9 下午04:54:53,,square,2,cross,arrow,3,pentagon,3,triangle,triangle,triangle,3,cross/plus,cross/plus,cross/plus,n,26.3,1.75,28.89,m,k,k
+2023-12-9 下午04:58:54,blue,square,2,cross,cross,2,,3,triangle,triangle,triangle,3,cross/plus,cross/plus,cross/plus,nc,26.14,1.74,6.67,m,j,j
+2023-12-9 下午05:06:23,blue,circle,2,rectangle,cross,2,square,2,heart,heart,square,2,cross/plus,triangle,cross/plus,nc,13.46,0.9,23.33,male,nc,nc
+2023-12-9 下午05:23:26,,,,,,,,,,,,,,,,,116.28,7.75,0,n,n,nn
+2023-12-9 下午05:42:53,yellow,semi-circle,3,cross,arrow,2,triangle,2,heart,circle,triangle,3,cross/plus,cross/plus,cross/plus,yes,13.7,0.91,40,,,
+2023-12-9 下午05:46:28,yellow,semi-circle,3,cross,arrow,2,triangle,2,heart,circle,triangle,3,cross/plus,cross/plus,cross/plus,yes,13.7,0.91,40,,,
+2023-12-9 下午11:04:25,black,,2,square,cross,2,pentagon,2,heart,circle,sphere,2,cross/plus,triangle,heart,SWKR,53.71,3.58,34.44,male,19,neither
+2023-12-11 上午08:38:34,,,,,,,,,,,,,,,,tlts,115.95,7.73,0,male,19,neither
+2023-12-12 下午01:04:15,blue,square,2,cross,arrow,2,pentagon,2,triangle,triangle,triangle,4,cross/plus,curved line,cross/plus,nc,15.15,1.01,32.22,nc,nc,nc
+2023-12-12 下午01:05:11,blue,circle,2,rectangle,cross,2,pentagon,2,circle,heart,square,2,cross/plus,triangle,cross/plus,nc,9.32,0.62,28.89,nc,nc,nc
+2023-12-12 下午01:12:17,blue,square,2,,,,square,2,triangle,heart,sphere,2,heart,triangle,heart,nc,28.65,1.91,8.89,nc,nc,nc
+2023-12-12 下午03:30:42,red,,3,square,arrow,4,pentagon,2,triangle,divide symbol,triangle,3,diamond/kite,triangle,cross/plus,DCKH,83.11,5.54,62.22,M,20,no
